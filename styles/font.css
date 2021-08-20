@@ -1,38 +1,38 @@
 @font-face{
     font-family:'Montserrat-Regular';
-    src:url('./fonts/Montserrat/Montserrat-Regular.ttf')
+    src:url('./Fonts/Montserrat/Montserrat-Regular.ttf')
 }
 
 @font-face{
     font-family: 'Montserrat-Medium';
-    src:url('./fonts/Montserrat/Montserrat-Medium.ttf')
+    src:url('./Fonts/Montserrat/Montserrat-Medium.ttf')
 }
 
 @font-face{
     font-family: 'Montserrat-Bold';
-    src:url('./fonts/Montserrat/Montserrat-Bold.ttf')
+    src:url('./Fonts/Montserrat/Montserrat-Bold.ttf')
 }
 @font-face{
     font-family:'Roboto-Regular';
-    src:url('./fonts/Roboto/Roboto-Regular.ttf')
+    src:url('./Fonts/Roboto/Roboto-Regular.ttf')
 }
 
 @font-face{
     font-family: 'Roboto-Medium';
-    src:url('./fonts/Roboto/Roboto-Medium.ttf')
+    src:url('./Fonts/Roboto/Roboto-Medium.ttf')
 }
 
 @font-face{
     font-family: 'Roboto-Bold';
-    src:url('./fonts/Roboto/Roboto-Bold.ttf')
+    src:url('./Fonts/Roboto/Roboto-Bold.ttf')
 }
 @font-face{
     font-family: 'Roboto-Light';
-    src:url('./fonts/Roboto/Roboto-Light.ttf')
+    src:url('./Fonts/Roboto/Roboto-Light.ttf')
 }
 
 @font-face{
     font-family: 'Roboto-Thin';
-    src:url('./fonts/Roboto/Roboto-Thin.ttf')
+    src:url('./Fonts/Roboto/Roboto-Thin.ttf')
 }
 
